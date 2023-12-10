@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lubaidanalyst
 - 👀 I’m interested in data analyst, data science
-- 🌱 I’m currently learning dara science
-- 💞️ I’m looking to collaborate on any data analyst project
+- 🌱 I’m currently learning data science
+- 💞️ I’m looking for data analyst job
 - 📫 How to reach me 
 
 <!---
